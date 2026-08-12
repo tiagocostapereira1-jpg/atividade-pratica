@@ -6,5 +6,13 @@
 
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
+    background-color: yellow;
+    color: rgb(100,180,50);
+    line-height: 1.5;
+}
+/* cabesario,banner e perfil*/
+.cabecario{#A30B37
+    background-color: bisque;
+    border-bottom: 2px solid #A30B37;
+    padding-bottom: 20px;
 }
